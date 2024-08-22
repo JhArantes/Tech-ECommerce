@@ -1,7 +1,6 @@
-# Analise Vendas Shopping
+# Analise Vendas Tech ECommer
 
-Este repositorio ultiliza as principais ferramentas de um analista de dados
-
+Este repositorio ultiliza as principais ferramentas de um analista de dados!
 
 ## Python 
 
@@ -24,8 +23,11 @@ Faço requisições para tirar informações uteis com a linguagem SQL
 ## Power BI
 
 **Power BI:**
-Um dashBoard
-
+Um dashBoard interativo e dinamico!!
 
 
 ## Excel
+1. Manipulação de dados
+2. Criação de Tabela Pivot
+3. Graficos
+4. DashBoard 
