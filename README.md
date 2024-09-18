@@ -2,6 +2,8 @@
 
 Este repositorio ultiliza as principais ferramentas de um analista de dados!
 
+![DashBoard](./Power%20BI/image.png)
+
 ## Python 
 
 **Analise Exploratoria:**
