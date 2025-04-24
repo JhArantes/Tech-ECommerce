@@ -1,0 +1,8 @@
+*.ipynb linguist-language=Python
+*.py linguist-language=Python
+*.sql linguist-language=SQL
+
+# (Opcional) Evita que arquivos de dados influenciem a linguagem principal
+*.csv linguist-detectable=false
+*.json linguist-detectable=false
+*.xlsx linguist-detectable=false
